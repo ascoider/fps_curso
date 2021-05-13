@@ -1,0 +1,399 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home N; OS build 19041.928; Version 2004; 64bit' Language: 'es' Physical Memory: 8134 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/guill/Desktop/Unity/01 projects/fps_curso
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56273
+Successfully changed project path to: C:/Users/guill/Desktop/Unity/01 projects/fps_curso
+C:/Users/guill/Desktop/Unity/01 projects/fps_curso
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/guill/Desktop/Unity/01 projects/fps_curso/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX550/550 Series (ID=0x699f)
+    Vendor:   
+    VRAM:     4076 MB
+    Driver:   27.20.1034.6
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56084
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002140 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 27.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.092 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000726 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.946 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.6 MB.
+System memory in use after: 56.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1540.
+Total: 1.782200 ms (FindLiveObjects: 0.188900 ms CreateObjectMapping: 0.096200 ms MarkObjects: 1.402000 ms  DeleteObjects: 0.093400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/LowPoly SciFi/Prefabs/CeilingLampA.prefab
+  artifactKey: Guid(52ad5c9c020a19c4bb74de3a99cf0974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/CeilingLampA.prefab using Guid(52ad5c9c020a19c4bb74de3a99cf0974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8647e76fb31e56587ee3b932286cc7f4') in 0.238071 seconds
+  Import took 0.240282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/FloorInteriorA4.prefab
+  artifactKey: Guid(e274c7bd48f126345961fb198e1c16db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/FloorInteriorA4.prefab using Guid(e274c7bd48f126345961fb198e1c16db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38f084dfe720e9b51398fd715cfd93c') in 0.027693 seconds
+  Import took 0.030525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/GateSmallFrameB.prefab
+  artifactKey: Guid(fa577da00fa6c43409027bfc2cb446f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/GateSmallFrameB.prefab using Guid(fa577da00fa6c43409027bfc2cb446f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e8888c989f8804cf898fc642d6d106c') in 0.036265 seconds
+  Import took 0.038483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/FloorInteriorB1.prefab
+  artifactKey: Guid(6ce6e58075082ee40aa64b4c59ccaf9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/FloorInteriorB1.prefab using Guid(6ce6e58075082ee40aa64b4c59ccaf9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef326e6915ef7e360f88fc105ad8cb0') in 0.024997 seconds
+  Import took 0.027071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/PanelB.prefab
+  artifactKey: Guid(c68b5d42961bd3a41a87f5d02a3af643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/PanelB.prefab using Guid(c68b5d42961bd3a41a87f5d02a3af643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '075b2a900cc67a11286d02369198922c') in 0.029514 seconds
+  Import took 0.032945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/CornerWindowA.prefab
+  artifactKey: Guid(3aa541d38da2cd643aec89b050153446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/CornerWindowA.prefab using Guid(3aa541d38da2cd643aec89b050153446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681e580874058a0d60d317f00c22d8a4') in 0.146049 seconds
+  Import took 0.149072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/Rooms
+  artifactKey: Guid(668a67c142e0065439981911b91cfb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/Rooms using Guid(668a67c142e0065439981911b91cfb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e359692aad535e7dfb6fb0fae45982e4') in 0.006671 seconds
+  Import took 0.009769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/WallLargeB.prefab
+  artifactKey: Guid(0150c0006494bd84198ac13cd4d0d7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/WallLargeB.prefab using Guid(0150c0006494bd84198ac13cd4d0d7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '957b3108b08eeeb125edc83a380b6041') in 0.023090 seconds
+  Import took 0.025727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000678 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/FloorInteriorA6.prefab
+  artifactKey: Guid(101f679722cc4c546a9cb039c6c83e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/FloorInteriorA6.prefab using Guid(101f679722cc4c546a9cb039c6c83e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595afe82f640fb596882f68fd0d7593f') in 0.019316 seconds
+  Import took 0.023503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000901 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/CeilingA1.prefab
+  artifactKey: Guid(40977f1f421b682459aa11ac70bbfc2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/CeilingA1.prefab using Guid(40977f1f421b682459aa11ac70bbfc2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00acba6a26646d6f1c04d6d9d52b762f') in 0.014069 seconds
+  Import took 0.016951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/ColumnB.prefab
+  artifactKey: Guid(8b4141ff278aa944e95d5357a1b9ad86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/ColumnB.prefab using Guid(8b4141ff278aa944e95d5357a1b9ad86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2938a687b230dcb304cd4429a47e36cc') in 0.019790 seconds
+  Import took 0.022120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/WallSmallC.prefab
+  artifactKey: Guid(ba75f6548b81ad440be3522e8695d23c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/WallSmallC.prefab using Guid(ba75f6548b81ad440be3522e8695d23c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab5f50e2dd833d287a44db6455f36616') in 0.014838 seconds
+  Import took 0.016823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/RampSmall.prefab
+  artifactKey: Guid(68a175f629f570f429cddf1860f76ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/RampSmall.prefab using Guid(68a175f629f570f429cddf1860f76ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24c9d39d8d6c173ad158fcd2a8c08d97') in 0.015360 seconds
+  Import took 0.017386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/LowPoly SciFi/Prefabs
+  artifactKey: Guid(0f3e9c8248b15e94d90096a222c82e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs using Guid(0f3e9c8248b15e94d90096a222c82e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dde42019fc6165fa469b019c5b35735') in 0.006792 seconds
+  Import took 0.009551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/LabTable.prefab
+  artifactKey: Guid(e20b8b783289f644684f9e94fddbd56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/LabTable.prefab using Guid(e20b8b783289f644684f9e94fddbd56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a9f3e3f06960ad0916bda47de6ba23a') in 0.016885 seconds
+  Import took 0.018752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/GateSmallFrameC.prefab
+  artifactKey: Guid(e6037065a7ca30841ba445cefd3ad5f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/GateSmallFrameC.prefab using Guid(e6037065a7ca30841ba445cefd3ad5f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71aa6fa5a237faf741db463a8b92b11a') in 0.015799 seconds
+  Import took 0.017697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/HandRailSmall.prefab
+  artifactKey: Guid(230464eeaeb27b54c8c52bd67155038c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/HandRailSmall.prefab using Guid(230464eeaeb27b54c8c52bd67155038c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bdf4f9995fa22e28c151ac8dfbd0c6d') in 0.015089 seconds
+  Import took 0.017476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.708503 seconds.
+  path: Assets/LowPoly SciFi/Prefabs/Rooms/Free_RoomA.prefab
+  artifactKey: Guid(1e4f0d9e7dbf221419b0bd0e1286aa16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Prefabs/Rooms/Free_RoomA.prefab using Guid(1e4f0d9e7dbf221419b0bd0e1286aa16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67639a0d7088a827dab703249d71290c') in 0.026837 seconds
+  Import took 0.030328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.404930 seconds.
+  path: Assets/LowPoly SciFi/Meshes/CeilingA1_mesh.fbx
+  artifactKey: Guid(57e6c89de3325954bbd5247e79ab73f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/CeilingA1_mesh.fbx using Guid(57e6c89de3325954bbd5247e79ab73f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a247c8ad6abd8756679dc38c89912366') in 0.080727 seconds
+  Import took 0.083806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/LowPoly SciFi/Meshes/PanelB_mesh.fbx
+  artifactKey: Guid(8c9b5f068404c544a820bdbeaebf5a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/PanelB_mesh.fbx using Guid(8c9b5f068404c544a820bdbeaebf5a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5afa12b383ad1b7e019540a6cc18018a') in 0.020101 seconds
+  Import took 0.022737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/LowPoly SciFi/Meshes/CeilingLampA_mesh.fbx
+  artifactKey: Guid(1e63a2480425818428b2cc5e8e9ebc54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/CeilingLampA_mesh.fbx using Guid(1e63a2480425818428b2cc5e8e9ebc54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e88a5c0821da9cc2ff67520eabf7e3') in 0.023450 seconds
+  Import took 0.025328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/LowPoly SciFi/Meshes/ColumnB_mesh.fbx
+  artifactKey: Guid(5fd94bba744a8c44991c32247651bb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/ColumnB_mesh.fbx using Guid(5fd94bba744a8c44991c32247651bb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ca010105d272e3308011d01d519dc7b') in 0.020622 seconds
+  Import took 0.023192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/LowPoly SciFi/Meshes/CeilingLampA_mesh.fbx
+  artifactKey: Guid(1e63a2480425818428b2cc5e8e9ebc54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/CeilingLampA_mesh.fbx using Guid(1e63a2480425818428b2cc5e8e9ebc54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e88a5c0821da9cc2ff67520eabf7e3') in 0.016518 seconds
+  Import took 0.018171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/LowPoly SciFi/Meshes/WallSmallC_mesh.fbx
+  artifactKey: Guid(34e4968ef26fa4b4c8d88bbfcb01071b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/WallSmallC_mesh.fbx using Guid(34e4968ef26fa4b4c8d88bbfcb01071b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25b6ef08399fa9382703cb4980b3121b') in 0.017236 seconds
+  Import took 0.019204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/LowPoly SciFi/Meshes/FloorInteriorA4_mesh.fbx
+  artifactKey: Guid(cd5013dcdd394644b9c57e0e573898dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/FloorInteriorA4_mesh.fbx using Guid(cd5013dcdd394644b9c57e0e573898dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c8f8462e5bf8e873a727ecee2425dfb') in 0.016493 seconds
+  Import took 0.019186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/LowPoly SciFi/Meshes/HandRailSmall_mesh.fbx
+  artifactKey: Guid(96704a1974173c14d8a7906e02e29699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/HandRailSmall_mesh.fbx using Guid(96704a1974173c14d8a7906e02e29699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ace628a81594d405f1f6adc113fa2463') in 0.017989 seconds
+  Import took 0.020524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/LowPoly SciFi/Meshes/LabTable_mesh.fbx
+  artifactKey: Guid(7a16876a3740cbd4b863a3a3db778e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/LabTable_mesh.fbx using Guid(7a16876a3740cbd4b863a3a3db778e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd971fa32408b44008a5fbb711a047097') in 0.019949 seconds
+  Import took 0.022428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/LowPoly SciFi/Meshes/WallLargeB_mesh.fbx
+  artifactKey: Guid(69850715f8d465b45a1e9698cd699191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/WallLargeB_mesh.fbx using Guid(69850715f8d465b45a1e9698cd699191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8db1899438623fa5c295e38d67f98ac') in 0.023045 seconds
+  Import took 0.024940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/LowPoly SciFi/Meshes/GateSmallFrameB_mesh.fbx
+  artifactKey: Guid(41c20a22c931844479143387a0152c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/GateSmallFrameB_mesh.fbx using Guid(41c20a22c931844479143387a0152c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16a30838b50957c1804742bddf872183') in 0.019453 seconds
+  Import took 0.022705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/LowPoly SciFi/Meshes/FloorInteriorA6_mesh.fbx
+  artifactKey: Guid(bb26efff5bd20b047b87b0df33781012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/FloorInteriorA6_mesh.fbx using Guid(bb26efff5bd20b047b87b0df33781012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '930ed90b42eb3dc4cbeef57283e0827e') in 0.021766 seconds
+  Import took 0.024061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/LowPoly SciFi/Meshes/CornerWindowA_mesh.fbx
+  artifactKey: Guid(a9dd38c484b428f449090e885042f887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/CornerWindowA_mesh.fbx using Guid(a9dd38c484b428f449090e885042f887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a203bfa82f91001f494ab00fb18a042d') in 0.021619 seconds
+  Import took 0.023511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/LowPoly SciFi/Meshes/RampSmall_mesh.fbx
+  artifactKey: Guid(9205fd4e5a2421047b62f0334133769b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/RampSmall_mesh.fbx using Guid(9205fd4e5a2421047b62f0334133769b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f691a81ccad6fbe0b090766a67ee04aa') in 0.029290 seconds
+  Import took 0.031047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/LowPoly SciFi/Meshes/GateSmallFrameC_mesh.fbx
+  artifactKey: Guid(6c6b31e560e09604081a2848c153e8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/GateSmallFrameC_mesh.fbx using Guid(6c6b31e560e09604081a2848c153e8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175dec0f7d351f9470137c35865aee22') in 0.022891 seconds
+  Import took 0.024705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/LowPoly SciFi/Meshes/FloorInteriorB1_mesh.fbx
+  artifactKey: Guid(5b63062f0f9550241a5fee43fa3bebac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/FloorInteriorB1_mesh.fbx using Guid(5b63062f0f9550241a5fee43fa3bebac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75693ea0bbeaa1f30e3ba87b0fc45101') in 0.020924 seconds
+  Import took 0.022658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001847 seconds.
+  path: Assets/LowPoly SciFi/Meshes/FloorInteriorB1_mesh.fbx
+  artifactKey: Guid(5b63062f0f9550241a5fee43fa3bebac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/FloorInteriorB1_mesh.fbx using Guid(5b63062f0f9550241a5fee43fa3bebac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75693ea0bbeaa1f30e3ba87b0fc45101') in 0.012112 seconds
+  Import took 0.014112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.883240 seconds.
+  path: Assets/LowPoly SciFi/Meshes/Materials
+  artifactKey: Guid(7df1a2f6b9f376442827ef4dfc6a8ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Meshes/Materials using Guid(7df1a2f6b9f376442827ef4dfc6a8ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8cb3f56971eaa780027ce31d6d0584d') in 0.006886 seconds
+  Import took 0.010586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.284444 seconds.
+  path: Assets/LowPoly SciFi/Scenes/DemoScene.unity
+  artifactKey: Guid(a6096f87c0bb6ae47affc4d9c4af4beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Scenes/DemoScene.unity using Guid(a6096f87c0bb6ae47affc4d9c4af4beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170bd80dc568bd335d731dd5f2bc2154') in 0.007909 seconds
+  Import took 0.009751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.204260 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(0dc0eabea8dc547419f6ebd0efa9b7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(0dc0eabea8dc547419f6ebd0efa9b7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1a0341ba9fb1b1e6e720d4979235931') in 0.012360 seconds
+  Import took 0.014046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.922684 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9831e44e2a700a6e1119228b2d38e767') in 0.007609 seconds
+  Import took 0.009331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.974071 seconds.
+  path: Assets/LowPoly SciFi/Scenes/DemoSceneSettings.lighting
+  artifactKey: Guid(6a98e2ad235701b4892d0607e0d7502b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPoly SciFi/Scenes/DemoSceneSettings.lighting using Guid(6a98e2ad235701b4892d0607e0d7502b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'beb172667532912f5220e6044c08fba4') in 0.041729 seconds
+  Import took 0.043867 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
